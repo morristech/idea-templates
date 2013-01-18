@@ -33,7 +33,7 @@
     </dependencies>
 
     <build>
-        <finalName>SpringMVC</finalName>
+        <finalName>SpringAppMVC</finalName>
         <plugins>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
