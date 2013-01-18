@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="SpringAppMVC:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringAppMVC_war</output-path>
+    <root id="archive" name="SpringAppMVC_war.war">
+      <element id="artifact" artifact-name="SpringAppMVC:war exploded" />
+    </root>
+  </artifact>
+</component>
