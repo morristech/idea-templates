@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" build-on-make="true" name="SpringAppWebFlow:war exploded">
-    <output-path>$PROJECT_DIR$/target/springapp-webflow-1.0.0</output-path>
+    <output-path>$PROJECT_DIR$/target/SpringAppMVC</output-path>
     <root id="root">
       <element id="javaee-facet-resources" facet="SpringAppWebFlow/web/Web" />
       <element id="directory" name="WEB-INF">
