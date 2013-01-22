@@ -27,7 +27,7 @@
     </dependencies>
 
     <build>
-        <finalName>SpringAppMVC</finalName>
+        <finalName>SpringApp</finalName>
         <plugins>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
