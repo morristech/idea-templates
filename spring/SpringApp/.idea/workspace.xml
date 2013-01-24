@@ -2,36 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a4afaff-6df1-4428-ac6a-5629ec7186b8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/libraries/Maven__junit_junit_4_8_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/libraries/Maven__org_springframework_batch_spring_batch_core_2_1_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/libraries/Maven__org_springframework_batch_spring_batch_infrastructure_2_1_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/libraries/Maven__org_springframework_spring_aop_3_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/libraries/Maven__org_springframework_spring_beans_3_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/libraries/Maven__org_springframework_spring_context_3_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/libraries/Maven__org_springframework_spring_core_3_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/libraries/Maven__org_springframework_spring_expression_3_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/libraries/Maven__org_springframework_spring_test_3_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/libraries/Maven__org_springframework_spring_tx_2_5_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/libraries/Maven__org_springframework_spring_web_3_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/libraries/Maven__org_springframework_spring_webmvc_3_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/SpringAppBatch.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__junit_junit_4_8_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_spring_aop_3_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_spring_beans_3_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_spring_context_3_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_spring_core_3_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_spring_expression_3_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_spring_test_3_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_spring_web_3_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_spring_webmvc_3_2_0_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpringAppBatch/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/workspace.xml" />
     </list>
     <ignored path="SpringMVC.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,19 +24,21 @@
     <ignored path="../SpringAppMVC/target/" />
     <ignored path="../SpringAppWebFlow/target/" />
     <file path="/SpringConfig.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358486381494" ignored="false" />
-    <file path="/pom.xml" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359010729164" ignored="false" />
+    <file path="/pom.xml" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359016676479" ignored="false" />
     <file path="/fragment.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358502446283" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/plugins/jsp/lib/jsp-impl.jar!/standardSchemas/jspxml2.xsd" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358486969828" ignored="false" />
     <file path="/mvc-dispatcher-servlet.xml" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358487128862" ignored="false" />
     <file path="/hello.jsp" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358488074135" ignored="false" />
     <file path="/AppConfig.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358488807154" ignored="false" />
     <file path="/SpringApp.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358860986360" ignored="false" />
-    <file path="/Dummy.txt" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359010139555" ignored="false" />
+    <file path="/Dummy.txt" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359016736119" ignored="false" />
     <file path="/HelloWorldService.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358857998542" ignored="false" />
     <file path="/SpringAppConfig.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358861145394" ignored="false" />
     <file path="/SpringAppTests.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358949772146" ignored="false" />
     <file path="/HelloService.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358949793177" ignored="false" />
     <file path="$PROJECT_DIR$/../SpringAppIntegration/pom.xml" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359008873132" ignored="false" />
+    <file path="$PROJECT_DIR$/../SpringAppSecurity/pom.xml" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359016676479" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359016736119" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,19 +102,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="21" selection-start="0" selection-end="2226" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spring-config.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/spring-config.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="33" selection-start="506" selection-end="565" vertical-scroll-proportion="0.17942584">
+            <state line="10" column="13" selection-start="473" selection-end="473" vertical-scroll-proportion="0.35885167">
               <folding />
             </state>
           </provider>
@@ -279,6 +257,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -366,7 +345,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -384,12 +362,12 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -454,18 +432,18 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
       <option name="filePath" />
       <option name="scope" value="ALL" />
       <option name="testName" />
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
-      <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
@@ -684,6 +662,20 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="21" selection-start="0" selection-end="2226" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="33" selection-start="506" selection-end="565" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="43" column="21" selection-start="1546" selection-end="1546" vertical-scroll-proportion="0.0">
           <folding />
         </state>
@@ -759,16 +751,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="21" selection-start="0" selection-end="2226" vertical-scroll-proportion="0.0">
+        <state line="5" column="33" selection-start="506" selection-end="565" vertical-scroll-proportion="0.17857143">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-config.xml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="33" selection-start="506" selection-end="565" vertical-scroll-proportion="0.17942584">
+        <state line="10" column="13" selection-start="473" selection-end="473" vertical-scroll-proportion="0.35885167">
           <folding />
         </state>
       </provider>

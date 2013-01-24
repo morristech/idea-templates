@@ -2,7 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a4afaff-6df1-4428-ac6a-5629ec7186b8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpringAppWebFlow/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../SpringAppWebFlow/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/src/main/java/com/springapp/security/ApplicationController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__junit_junit_4_8_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_security_spring_security_acl_3_1_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_security_spring_security_config_3_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_security_spring_security_core_3_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_security_spring_security_taglibs_3_1_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_security_spring_security_web_3_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_spring_aop_3_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_spring_beans_3_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_spring_context_3_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_spring_core_3_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_spring_expression_3_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_spring_jdbc_3_0_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_spring_test_3_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_spring_tx_3_0_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_spring_web_3_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_spring_webmvc_3_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/SpringAppSecurity.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/artifacts/SpringAppSecurity_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/artifacts/SpringAppSecurity_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/src/main/java/com/springapp/security/UserService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/src/main/webapp/WEB-INF/pages/admin.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/ant.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/src/main/webapp/WEB-INF/pages/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/src/main/webapp/WEB-INF/spring-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/src/main/webapp/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpringAppMVC.iml" afterPath="$PROJECT_DIR$/SpringAppMVC.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpringApp/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../SpringApp/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpringAppBatch/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SpringMVC.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -10,18 +52,23 @@
     <ignored path="../SpringAppData/target/" />
     <file path="/SpringConfig.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358486381494" ignored="false" />
     <file path="/pom.xml" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359007172125" ignored="false" />
-    <file path="/fragment.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359006474688" ignored="false" />
+    <file path="/fragment.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359025183044" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/plugins/jsp/lib/jsp-impl.jar!/standardSchemas/jspxml2.xsd" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358486969828" ignored="false" />
     <file path="/mvc-dispatcher-servlet.xml" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358954834764" ignored="false" />
     <file path="/hello.jsp" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358488074135" ignored="false" />
     <file path="/AppConfig.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358488807154" ignored="false" />
-    <file path="/Dummy.txt" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359007389662" ignored="false" />
+    <file path="/Dummy.txt" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359031561717" ignored="false" />
     <file path="/SpringAppMVCTests.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359007099385" ignored="false" />
-    <file path="/web.xml" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359007003356" ignored="false" />
-    <file path="/index.jsp" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358955795770" ignored="false" />
+    <file path="/web.xml" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359022302022" ignored="false" />
+    <file path="/index.jsp" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359029676103" ignored="false" />
     <file path="/SpringAppWebFlowTests.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359006026999" ignored="false" />
-    <file path="/spring-config.xml" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359006705018" ignored="false" />
-    <file path="/a.dummy" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359007207319" ignored="false" />
+    <file path="/spring-config.xml" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359030054741" ignored="false" />
+    <file path="/a.dummy" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359031366552" ignored="false" />
+    <file path="/SpringAppSecurityController.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359025143484" ignored="false" />
+    <file path="/admin.jsp" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359031373831" ignored="false" />
+    <file path="/ApplicationController.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359031388712" ignored="false" />
+    <file path="/loggedout.jsp" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359029847681" ignored="false" />
+    <file path="/AdminService.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359031337835" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,10 +128,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HelloController.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="HelloController.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="13" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0">
+            <state line="14" column="5" selection-start="354" selection-end="468" vertical-scroll-proportion="0.24812031">
               <folding />
             </state>
           </provider>
@@ -93,7 +140,7 @@
       <file leaf-file-name="hello.jsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="15" selection-start="26" selection-end="26" vertical-scroll-proportion="-1.25">
+            <state line="4" column="7" selection-start="0" selection-end="50" vertical-scroll-proportion="-2.5">
               <folding />
             </state>
           </provider>
@@ -111,7 +158,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="88" selection-start="603" selection-end="603" vertical-scroll-proportion="-7.2222223">
+            <state line="14" column="88" selection-start="603" selection-end="603" vertical-scroll-proportion="-7.7777777">
               <folding />
             </state>
           </provider>
@@ -120,16 +167,16 @@
       <file leaf-file-name="mvc-dispatcher-servlet.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="38" selection-start="266" selection-end="319" vertical-scroll-proportion="0.0">
+            <state line="4" column="44" selection-start="266" selection-end="319" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="34" selection-start="1810" selection-end="1810" vertical-scroll-proportion="0.4633431">
+            <state line="54" column="34" selection-start="1810" selection-end="1810" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -139,9 +186,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/mvc/SpringAppMVCTests.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="40" column="45" selection-start="1527" selection-end="1527" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -149,7 +194,7 @@
       <file leaf-file-name="spring-config.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/spring-config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="23" selection-start="504" selection-end="504" vertical-scroll-proportion="0.0">
+            <state line="8" column="4" selection-start="485" selection-end="746" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -297,6 +342,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -463,8 +510,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -476,7 +521,7 @@
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringAppData" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.side.proportion" value="0.20000002" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -484,9 +529,9 @@
     <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -529,18 +574,18 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
       <option name="filePath" />
       <option name="scope" value="ALL" />
       <option name="testName" />
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
-      <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
@@ -702,8 +747,8 @@
       </method>
     </configuration>
     <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.SpringAppMVCTests" />
-      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.SpringAppMVC" />
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.SpringAppMVC" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SpringAppMVCTests" />
     </list>
     <recent_temporary>
       <list size="1">
@@ -741,14 +786,12 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32756132" sideWeight="0.4913917" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32611832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46753246" sideWeight="0.50645626" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -758,8 +801,10 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46753246" sideWeight="0.48852223" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32611832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Kotlin" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IvyIDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -869,13 +914,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SpringAppMVC.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="0" selection-start="546" selection-end="546" vertical-scroll-proportion="0.0">
@@ -885,51 +923,50 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/3.2.0.RELEASE/spring-test-3.2.0.RELEASE.jar!/org/springframework/test/web/servlet/setup/MockMvcBuilders.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="152" selection-start="409" selection-end="409" vertical-scroll-proportion="0.42857143">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="15" selection-start="26" selection-end="26" vertical-scroll-proportion="-1.25">
-          <folding />
-        </state>
+        <state line="9" column="152" selection-start="409" selection-end="409" vertical-scroll-proportion="0.42857143" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/3.2.0.RELEASE/spring-test-3.2.0.RELEASE.jar!/org/springframework/test/context/web/WebAppConfiguration.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="30" selection-start="127" selection-end="163" vertical-scroll-proportion="0.07293355">
-          <folding />
-        </state>
+        <state line="4" column="30" selection-start="127" selection-end="163" vertical-scroll-proportion="0.07293355" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/3.2.0.RELEASE/spring-test-3.2.0.RELEASE.jar!/org/springframework/test/web/servlet/result/MockMvcResultMatchers.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="83" selection-start="1228" selection-end="1228" vertical-scroll-proportion="0.8547855">
-          <folding />
-        </state>
+        <state line="23" column="83" selection-start="1228" selection-end="1228" vertical-scroll-proportion="0.8547855" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/mvc/SpringAppMVCTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="45" selection-start="1527" selection-end="1527" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="34" selection-start="1810" selection-end="1810" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="38" selection-start="266" selection-end="319" vertical-scroll-proportion="0.0">
+        <state line="4" column="44" selection-start="266" selection-end="319" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring-config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="23" selection-start="504" selection-end="504" vertical-scroll-proportion="0.0">
+        <state line="8" column="4" selection-start="485" selection-end="746" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="7" selection-start="0" selection-end="50" vertical-scroll-proportion="-2.5">
           <folding />
         </state>
       </provider>
@@ -945,14 +982,14 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="88" selection-start="603" selection-end="603" vertical-scroll-proportion="-7.2222223">
+        <state line="14" column="88" selection-start="603" selection-end="603" vertical-scroll-proportion="-7.7777777">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="34" selection-start="1810" selection-end="1810" vertical-scroll-proportion="0.4633431">
+        <state line="14" column="5" selection-start="354" selection-end="468" vertical-scroll-proportion="0.24812031">
           <folding />
         </state>
       </provider>
