@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" build-on-make="true" name="SpringAppWebFlow:war exploded">
-    <output-path>$PROJECT_DIR$/target/SpringAppMVC</output-path>
+    <output-path>$PROJECT_DIR$/target/SpringAppWebFlow</output-path>
     <root id="root">
       <element id="javaee-facet-resources" facet="SpringAppWebFlow/web/Web" />
       <element id="directory" name="WEB-INF">
@@ -14,10 +14,10 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-core:3.1.1.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-asm:3.1.1.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-context:3.1.1.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-aop:3.1.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:3.2.0.RELEASE" />
           <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
           <element id="library" level="project" name="Maven: org.springframework:spring-expression:3.1.1.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-web:3.1.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:3.2.0.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:3.1.1.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-context-support:3.1.1.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.webflow:spring-binding:2.3.1.RELEASE" />
