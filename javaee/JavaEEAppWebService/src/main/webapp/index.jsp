@@ -5,7 +5,7 @@
     </head>
     <body>
         <%
-            response.sendRedirect("/hello");
+            response.sendRedirect("service/hello");
         %>
     </body>
 </html>
