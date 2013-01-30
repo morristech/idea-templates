@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaEEAppJSF.iml" filepath="$PROJECT_DIR$/JavaEEAppJSF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEEAppMBJSF.iml" filepath="$PROJECT_DIR$/JavaEEAppMBJSF.iml" />
     </modules>
   </component>
 </project>

@@ -1,8 +1,8 @@
 <component name="ArtifactManager">
-  <artifact type="war" build-on-make="true" name="JavaEEAppJSF:war">
+  <artifact type="war" build-on-make="true" name="JavaEEAppMBJSF:war">
     <output-path>$PROJECT_DIR$/target</output-path>
     <root id="archive" name="JavaEEAppJSF.war">
-      <element id="artifact" artifact-name="JavaEEAppJSF:war exploded" />
+      <element id="artifact" artifact-name="JavaEEAppMBJSF:war exploded" />
     </root>
   </artifact>
 </component>
