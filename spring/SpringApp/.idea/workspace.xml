@@ -2,21 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a4afaff-6df1-4428-ac6a-5629ec7186b8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__junit_junit_4_8_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_spring_aop_3_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_spring_beans_3_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_spring_context_3_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_spring_core_3_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_spring_expression_3_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_spring_test_3_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_spring_web_3_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringAppSecurity/.idea/libraries/Maven__org_springframework_spring_webmvc_3_2_0_RELEASE.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpringAppBatch/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../SpringAppBatch/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/src/main/java/com/javaeeapp/cdi/HelloService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/JavaEEAppCDI.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/src/test/java/com/javaeeapp/cdi/JavaEEAppCDITests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__commons_pool_commons_pool_1_5_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__junit_junit_4_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__net_sourceforge_serp_serp_1_13_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_activemq_activemq_core_5_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_activemq_activemq_ra_5_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_activemq_kahadb_5_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_activemq_protobuf_activemq_protobuf_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_bval_bval_core_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_bval_bval_jsr303_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_geronimo_components_geronimo_connector_3_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_geronimo_components_geronimo_transaction_3_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_geronimo_javamail_geronimo_javamail_1_4_mail_1_8_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_j2ee_connector_1_6_spec_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_openejb_javaee_api_6_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_openejb_mbean_annotation_api_4_5_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_openejb_openejb_api_4_5_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_openejb_openejb_core_4_5_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_openejb_openejb_javaagent_4_5_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_openejb_openejb_jee_4_5_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_openejb_openejb_jpa_integration_4_5_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_openejb_openejb_loader_4_5_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_openejb_patch_openjpa_asm_shaded_2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_openwebbeans_openwebbeans_ee_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_openwebbeans_openwebbeans_ee_common_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_openwebbeans_openwebbeans_ejb_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_openwebbeans_openwebbeans_impl_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_openwebbeans_openwebbeans_spi_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_openwebbeans_openwebbeans_web_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_xbean_xbean_asm_shaded_3_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_xbean_xbean_bundleutils_3_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_xbean_xbean_finder_shaded_3_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_xbean_xbean_naming_3_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_apache_xbean_xbean_reflect_3_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_codehaus_swizzle_swizzle_stream_1_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_fusesource_jansi_jansi_1_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_hsqldb_hsqldb_2_2_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_javassist_javassist_3_15_0_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_objectweb_howl_howl_1_0_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_1_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__org_slf4j_slf4j_jdk14_1_7_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/libraries/Maven__wsdl4j_wsdl4j_1_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/ant.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDI/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../javaee/JavaEEAppRS/JavaEEAppRS.iml" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppRS/JavaEEAppRS.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../javaee/JavaEEAppRS/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppRS/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SpringMVC.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,21 +76,21 @@
     <ignored path="../SpringAppMVC/target/" />
     <ignored path="../SpringAppWebFlow/target/" />
     <file path="/SpringConfig.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358486381494" ignored="false" />
-    <file path="/pom.xml" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359016676479" ignored="false" />
+    <file path="/pom.xml" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359525877009" ignored="false" />
     <file path="/fragment.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358502446283" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/plugins/jsp/lib/jsp-impl.jar!/standardSchemas/jspxml2.xsd" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358486969828" ignored="false" />
     <file path="/mvc-dispatcher-servlet.xml" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358487128862" ignored="false" />
     <file path="/hello.jsp" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358488074135" ignored="false" />
     <file path="/AppConfig.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358488807154" ignored="false" />
     <file path="/SpringApp.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358860986360" ignored="false" />
-    <file path="/Dummy.txt" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359016736119" ignored="false" />
+    <file path="/Dummy.txt" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359526282018" ignored="false" />
     <file path="/HelloWorldService.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358857998542" ignored="false" />
     <file path="/SpringAppConfig.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358861145394" ignored="false" />
     <file path="/SpringAppTests.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358949772146" ignored="false" />
     <file path="/HelloService.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358949793177" ignored="false" />
     <file path="$PROJECT_DIR$/../SpringAppIntegration/pom.xml" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359008873132" ignored="false" />
     <file path="$PROJECT_DIR$/../SpringAppSecurity/pom.xml" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359016676479" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359016736119" ignored="false" />
+    <file path="/JavaEEAppCDITests.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359525387918" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +109,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -91,7 +144,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -102,10 +154,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="13" selection-start="473" selection-end="473" vertical-scroll-proportion="0.35885167">
+            <state line="10" column="13" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpringAppTests.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/SpringAppTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="18" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloService.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/HelloService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="5" selection-start="117" selection-end="188" vertical-scroll-proportion="0.28368795">
               <folding />
             </state>
           </provider>
@@ -257,7 +327,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -288,6 +357,22 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springapp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -345,6 +430,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -568,25 +654,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="790" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33766234" sideWeight="0.48852223" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35107914" sideWeight="0.48852223" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39967898" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46897545" sideWeight="0.50645626" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IvyIDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27116212" sideWeight="0.66233766" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27116212" sideWeight="0.64892083" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24892396" sideWeight="0.66233766" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24892396" sideWeight="0.64892083" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46897545" sideWeight="0.48852223" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="IvyIDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -662,6 +748,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="13" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="43" column="21" selection-start="0" selection-end="2226" vertical-scroll-proportion="0.0">
           <folding />
         </state>
@@ -735,22 +828,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/SpringAppTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="28" selection-start="430" selection-end="430" vertical-scroll-proportion="0.38283062">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/HelloService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="8" selection-start="121" selection-end="121" vertical-scroll-proportion="0.2078522">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring-config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="33" selection-start="506" selection-end="565" vertical-scroll-proportion="0.17857143">
@@ -760,7 +837,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="13" selection-start="473" selection-end="473" vertical-scroll-proportion="0.35885167">
+        <state line="10" column="13" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/SpringAppTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="18" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/HelloService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="5" selection-start="117" selection-end="188" vertical-scroll-proportion="0.28368795">
           <folding />
         </state>
       </provider>
