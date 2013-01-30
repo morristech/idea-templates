@@ -25,6 +25,9 @@
         <module name="JavaEEAppJPA" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="JavaEEAppJPA" target="1.6" />
+    </bytecodeTargetLevel>
   </component>
 </project>
 
