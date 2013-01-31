@@ -2,7 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d7c8710-b24d-4bfa-9dff-29a7b8fe5965" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/AppTests.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/batch/HelloApp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/HelloApp.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/description.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppEJB/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppJSPServlet/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_2.xml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/springapp/batch/SpringAppBatchTests.java" afterPath="$PROJECT_DIR$/src/test/java/com/springapp/batch/AppTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/springapp/batch/SampleWriter.java" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/batch/SampleWriter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpringAppBatch.iml" afterPath="$PROJECT_DIR$/SpringAppBatch.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpringAppData/.idea/misc.xml" afterPath="$PROJECT_DIR$/../SpringAppData/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../javaee/JavaEEAppCDIJSF/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppCDIJSF/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../javaee/JavaEEAppJMS/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppJMS/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../javaee/JavaEEAppJPA/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppJPA/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../javaee/JavaEEAppMBJSF/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppMBJSF/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../javaee/JavaEEAppRS/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppRS/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../javaee/JavaEEAppWS/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../javaee/JavaEEAppWS/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpringApp/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../SpringApp/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpringAppData/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../SpringAppData/.idea/workspace.xml" />
     </list>
     <ignored path="SpringAppBatch.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -13,14 +36,17 @@
     <ignored path="../SpringAppWebFlow/target/" />
     <file path="/pom.xml" changelist="4d7c8710-b24d-4bfa-9dff-29a7b8fe5965" time="1359014624790" ignored="false" />
     <file path="/spring-config.xml" changelist="4d7c8710-b24d-4bfa-9dff-29a7b8fe5965" time="1359015474062" ignored="false" />
-    <file path="/Dummy.txt" changelist="4d7c8710-b24d-4bfa-9dff-29a7b8fe5965" time="1359015970507" ignored="false" />
+    <file path="/Dummy.txt" changelist="4d7c8710-b24d-4bfa-9dff-29a7b8fe5965" time="1359633858433" ignored="false" />
     <file path="/LogAdvice.java" changelist="4d7c8710-b24d-4bfa-9dff-29a7b8fe5965" time="1359012859014" ignored="false" />
     <file path="/SpringAppBatchTests.java" changelist="4d7c8710-b24d-4bfa-9dff-29a7b8fe5965" time="1359014441862" ignored="false" />
     <file path="/SampleItemProcessor.java" changelist="4d7c8710-b24d-4bfa-9dff-29a7b8fe5965" time="1359013682199" ignored="false" />
     <file path="/SampleItemFieldSetMapper.java" changelist="4d7c8710-b24d-4bfa-9dff-29a7b8fe5965" time="1359013701534" ignored="false" />
     <file path="/SampleItem.java" changelist="4d7c8710-b24d-4bfa-9dff-29a7b8fe5965" time="1359013645730" ignored="false" />
-    <file path="/SampleWriter.java" changelist="4d7c8710-b24d-4bfa-9dff-29a7b8fe5965" time="1359014267337" ignored="false" />
+    <file path="/SampleWriter.java" changelist="4d7c8710-b24d-4bfa-9dff-29a7b8fe5965" time="1359633895283" ignored="false" />
     <file path="/a.dummy" changelist="4d7c8710-b24d-4bfa-9dff-29a7b8fe5965" time="1359015236506" ignored="false" />
+    <file path="/HelloApp.java" changelist="4d7c8710-b24d-4bfa-9dff-29a7b8fe5965" time="1359633844646" ignored="false" />
+    <file path="/fragment.java" changelist="4d7c8710-b24d-4bfa-9dff-29a7b8fe5965" time="1359633858433" ignored="false" />
+    <file path="/description.html" changelist="4d7c8710-b24d-4bfa-9dff-29a7b8fe5965" time="1359634111589" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +96,7 @@
       </breakpoint>
     </breakpoint_any>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <line_breakpoints>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/springapp/batch/SampleItemFieldSetMapper.java" line="10" class="com.springapp.batch.SampleItemFieldSetMapper" package="com.springapp.batch">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
@@ -94,104 +120,7 @@
     <favorites_list name="SpringAppBatch" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="37" selection-start="2131" selection-end="2131" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spring-config.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/spring-config.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="1152" selection-end="1152" vertical-scroll-proportion="0.19077902">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DatabasePopulator.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/3.2.0.RELEASE/spring-jdbc-3.2.0.RELEASE.jar!/org/springframework/jdbc/datasource/init/DatabasePopulator.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="-3.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ResourceDatabasePopulator.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/3.2.0.RELEASE/spring-jdbc-3.2.0.RELEASE.jar!/org/springframework/jdbc/datasource/init/ResourceDatabasePopulator.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="38" selection-start="183" selection-end="208" vertical-scroll-proportion="-3.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SampleItemFieldSetMapper.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/batch/SampleItemFieldSetMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="454" selection-end="454" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DefaultLineMapper.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-infrastructure/2.1.9.RELEASE/spring-batch-infrastructure-2.1.9.RELEASE.jar!/org/springframework/batch/item/file/mapping/DefaultLineMapper.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="13" selection-start="567" selection-end="567" vertical-scroll-proportion="-6.28">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FlatFileItemReader.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-infrastructure/2.1.9.RELEASE/spring-batch-infrastructure-2.1.9.RELEASE.jar!/org/springframework/batch/item/file/FlatFileItemReader.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="16" selection-start="2248" selection-end="2248" vertical-scroll-proportion="-4.68">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SampleItem.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/batch/SampleItem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="29" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SpringAppBatchTests.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/batch/SpringAppBatchTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="57" selection-start="1016" selection-end="1016" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SampleWriter.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/batch/SampleWriter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="391" selection-end="391" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -213,10 +142,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/batch/SampleItem.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/batch/SampleItemProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/batch/SampleItemFieldSetMapper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/springapp/batch/SampleWriter.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/springapp/batch/SpringAppBatchTests.java" />
         <option value="$PROJECT_DIR$/src/main/resources/spring-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/batch/HelloApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/batch/SampleWriter.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/.idea/description.html" />
       </list>
     </option>
   </component>
@@ -323,6 +254,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -415,9 +347,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringAppBatch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringAppBatch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -431,64 +376,31 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SpringAppBatchTests">
-    <configuration default="false" name="SpringAppBatchTests" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.springapp.batch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="SpringAppBatch" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.springapp.batch" />
-      <option name="MAIN_CLASS_NAME" value="com.springapp.batch.SpringAppBatchTests" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
-      <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.HelloApp">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
       <option name="filePath" />
       <option name="scope" value="ALL" />
       <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
@@ -548,6 +460,13 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -569,14 +488,10 @@
       <patterns />
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.SpringAppBatchTests" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.HelloApp" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.AppTests" />
     </list>
-    <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.SpringAppBatchTests" />
-      </list>
-    </recent_temporary>
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -609,26 +524,27 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="790" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32756132" sideWeight="0.49713057" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24964131" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997114" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32756132" sideWeight="0.4978479" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IvyIDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.6724387" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.6724387" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32756132" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.6724387" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32756132" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24964131" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -695,66 +611,85 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="0" selection-start="1166" selection-end="1367" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="74" selection-start="1710" selection-end="1710" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/hsqldb/hsqldb/2.2.9/hsqldb-2.2.9.jar!/org/hsqldb/jdbc/JDBCDataSource.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="158" selection-end="158" vertical-scroll-proportion="0.119617224">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/hsqldb/hsqldb/2.2.9/hsqldb-2.2.9.jar!/org/hsqldb/jdbc/pool/JDBCPooledDataSource.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="18" selection-start="168" selection-end="168" vertical-scroll-proportion="0.119617224">
-          <folding />
-        </state>
+        <state line="6" column="18" selection-start="168" selection-end="168" vertical-scroll-proportion="0.119617224" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/3.2.0.RELEASE/spring-test-3.2.0.RELEASE.jar!/org/springframework/test/context/junit4/SpringJUnit4ClassRunner.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="0" selection-start="3838" selection-end="3838" vertical-scroll-proportion="0.82758623">
-          <folding />
-        </state>
+        <state line="53" column="0" selection-start="3838" selection-end="3838" vertical-scroll-proportion="0.82758623" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/3.2.0.RELEASE/spring-jdbc-3.2.0.RELEASE.jar!/org/springframework/jdbc/datasource/init/DataSourceInitializer.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="34" selection-start="183" selection-end="204" vertical-scroll-proportion="0.0397878">
-          <folding />
-        </state>
+        <state line="6" column="34" selection-start="183" selection-end="204" vertical-scroll-proportion="0.0397878" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/3.2.0.RELEASE/spring-jdbc-3.2.0.RELEASE.jar!/org/springframework/jdbc/datasource/init/DatabasePopulator.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="-3.0">
+        <state line="6" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/3.2.0.RELEASE/spring-jdbc-3.2.0.RELEASE.jar!/org/springframework/jdbc/datasource/init/ResourceDatabasePopulator.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="38" selection-start="183" selection-end="208" vertical-scroll-proportion="-3.0">
+        <state line="6" column="38" selection-start="183" selection-end="208" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-infrastructure/2.1.9.RELEASE/spring-batch-infrastructure-2.1.9.RELEASE.jar!/org/springframework/batch/item/file/mapping/DefaultLineMapper.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="37" selection-start="2131" selection-end="2131" vertical-scroll-proportion="0.0">
+        <state line="12" column="13" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-infrastructure/2.1.9.RELEASE/spring-batch-infrastructure-2.1.9.RELEASE.jar!/org/springframework/batch/item/file/FlatFileItemReader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="16" selection-start="2248" selection-end="2248" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/2.1.9.RELEASE/spring-batch-core-2.1.9.RELEASE.jar!/org/springframework/batch/core/JobExecution.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="53" selection-start="2118" selection-end="2118" vertical-scroll-proportion="-8.4">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/batch/AppTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="42" selection-start="1075" selection-end="1116" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="17" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/batch/SampleWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="45" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/batch/SampleItemFieldSetMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -765,50 +700,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-infrastructure/2.1.9.RELEASE/spring-batch-infrastructure-2.1.9.RELEASE.jar!/org/springframework/batch/item/file/mapping/DefaultLineMapper.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/batch/HelloApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="13" selection-start="567" selection-end="567" vertical-scroll-proportion="-6.28">
+        <state line="14" column="25" selection-start="734" selection-end="734" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="0" selection-start="2165" selection-end="2165" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-infrastructure/2.1.9.RELEASE/spring-batch-infrastructure-2.1.9.RELEASE.jar!/org/springframework/batch/item/file/FlatFileItemReader.class">
+    <entry file="file://$PROJECT_DIR$/.idea/description.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="16" selection-start="2248" selection-end="2248" vertical-scroll-proportion="-4.68">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/batch/SampleItemFieldSetMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="454" selection-end="454" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/batch/SampleWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="391" selection-end="391" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/batch/SpringAppBatchTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="57" selection-start="1016" selection-end="1016" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="1152" selection-end="1152" vertical-scroll-proportion="0.19077902">
+        <state line="0" column="67" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
