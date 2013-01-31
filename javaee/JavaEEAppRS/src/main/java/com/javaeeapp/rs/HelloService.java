@@ -4,7 +4,7 @@ import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
 
 @Path("/hello")
-public class Hello {
+public class HelloService {
     @GET
     @Produces(MediaType.APPLICATION_JSON)
     public HelloMessage sayHello(@QueryParam("name") @DefaultValue("world") String name) {

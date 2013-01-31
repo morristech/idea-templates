@@ -16,7 +16,7 @@ import org.junit.Test;
 import javax.ws.rs.core.MediaType;
 
 
-public class JavaEEAppRSTests {
+public class AppTests {
     public static final String URL = "http://localhost:9998/";
     private HttpServer server;
 
