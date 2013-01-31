@@ -2,30 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4381db0e-ed15-4b26-ba82-9864eba7dfaf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaEEAppRS/JavaEEAppRS.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaEEAppRS/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaEEAppRS/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaEEAppRS/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaEEAppRS/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaEEAppRS/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaEEAppRS/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaEEAppRS/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaEEAppRS/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/HelloTests.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Tomcat.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/description.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaEEAppEJB/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaEEAppJSPServlet/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/javaeeapp/ws/Hello.java" afterPath="$PROJECT_DIR$/src/main/java/com/javaeeapp/ws/HelloService.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/javaeeapp/ws/HelloImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/javaeeapp/ws/HelloServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/javaeeapp/ws/HelloTests.java" afterPath="$PROJECT_DIR$/src/test/java/com/javaeeapp/ws/HelloTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../spring/SpringAppData/.idea/misc.xml" afterPath="$PROJECT_DIR$/../../spring/SpringAppData/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/sun-jaxws.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/sun-jaxws.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaEEAppCDIJSF/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JavaEEAppCDIJSF/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaEEAppJMS/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JavaEEAppJMS/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaEEAppJPA/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JavaEEAppJPA/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaEEAppMBJSF/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JavaEEAppMBJSF/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaEEAppRS/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JavaEEAppRS/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../spring/SpringAppData/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../spring/SpringAppData/.idea/workspace.xml" />
     </list>
     <ignored path="JavaEEWebService.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/pom.xml" changelist="4381db0e-ed15-4b26-ba82-9864eba7dfaf" time="1359388063722" ignored="false" />
-    <file path="/Dummy.txt" changelist="4381db0e-ed15-4b26-ba82-9864eba7dfaf" time="1359389060675" ignored="false" />
+    <file path="/Dummy.txt" changelist="4381db0e-ed15-4b26-ba82-9864eba7dfaf" time="1359632879325" ignored="false" />
     <file path="/Calculator.java" changelist="4381db0e-ed15-4b26-ba82-9864eba7dfaf" time="1359360016851" ignored="false" />
     <file path="$PROJECT_DIR$/src/main/resources/com/javaeeapp/webservice.java" changelist="4381db0e-ed15-4b26-ba82-9864eba7dfaf" time="1359360115194" ignored="false" />
     <file path="/Hello.java" changelist="4381db0e-ed15-4b26-ba82-9864eba7dfaf" time="1359388145068" ignored="false" />
     <file path="/web.xml" changelist="4381db0e-ed15-4b26-ba82-9864eba7dfaf" time="1359384919968" ignored="false" />
     <file path="/sun-jaxws.xml" changelist="4381db0e-ed15-4b26-ba82-9864eba7dfaf" time="1359380329410" ignored="false" />
     <file path="/HelloTests.java" changelist="4381db0e-ed15-4b26-ba82-9864eba7dfaf" time="1359372794647" ignored="false" />
-    <file path="/fragment.java" changelist="4381db0e-ed15-4b26-ba82-9864eba7dfaf" time="1359374959478" ignored="false" />
+    <file path="/fragment.java" changelist="4381db0e-ed15-4b26-ba82-9864eba7dfaf" time="1359632879325" ignored="false" />
     <file path="/HelloClient.java" changelist="4381db0e-ed15-4b26-ba82-9864eba7dfaf" time="1359363657047" ignored="false" />
-    <file path="/HelloImpl.java" changelist="4381db0e-ed15-4b26-ba82-9864eba7dfaf" time="1359363834852" ignored="false" />
+    <file path="/HelloImpl.java" changelist="4381db0e-ed15-4b26-ba82-9864eba7dfaf" time="1359557311715" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaEEAppRS/src/main/java/com/javaeeapp/webservice.java" changelist="4381db0e-ed15-4b26-ba82-9864eba7dfaf" time="1359382428384" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaEEAppRS/src/main/java/com/javaeeapp/rs/Hello.java" changelist="4381db0e-ed15-4b26-ba82-9864eba7dfaf" time="1359388362761" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaEEAppRS/src/main/webapp/index.jsp" changelist="4381db0e-ed15-4b26-ba82-9864eba7dfaf" time="1359382619668" ignored="false" />
@@ -39,6 +46,7 @@
     <file path="/HelloMessage.java" changelist="4381db0e-ed15-4b26-ba82-9864eba7dfaf" time="1359385289307" ignored="false" />
     <file path="$PROJECT_DIR$/../JavaEEAppRS/src/main/java/com/javaeeapp/rs/AA.java" changelist="4381db0e-ed15-4b26-ba82-9864eba7dfaf" time="1359389069904" ignored="false" />
     <file path="/AA.java" changelist="4381db0e-ed15-4b26-ba82-9864eba7dfaf" time="1359388712313" ignored="false" />
+    <file path="/description.html" changelist="4381db0e-ed15-4b26-ba82-9864eba7dfaf" time="1359632914549" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,19 +106,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Hello.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/javaeeapp/ws/Hello.java">
+      <file leaf-file-name="HelloService.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javaeeapp/ws/HelloService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="14" selection-start="136" selection-end="136" vertical-scroll-proportion="0.21686748">
+            <state line="7" column="14" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloImpl.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/javaeeapp/ws/HelloImpl.java">
+      <file leaf-file-name="HelloServiceImpl.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javaeeapp/ws/HelloServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="13" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0">
+            <state line="5" column="55" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -119,7 +127,7 @@
       <file leaf-file-name="HelloTests.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/javaeeapp/ws/HelloTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="5" selection-start="766" selection-end="766" vertical-scroll-proportion="0.0">
+            <state line="24" column="0" selection-start="593" selection-end="600" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -128,7 +136,7 @@
       <file leaf-file-name="index.jsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="10" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0">
+            <state line="8" column="10" selection-start="204" selection-end="204" vertical-scroll-proportion="-5.0">
               <folding />
             </state>
           </provider>
@@ -136,13 +144,13 @@
       </file>
       <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
-            <state />
-          </provider>
           <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
             <state />
           </provider>
           <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+            <state />
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
@@ -155,7 +163,16 @@
       <file leaf-file-name="sun-jaxws.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/sun-jaxws.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="100" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0">
+            <state line="2" column="108" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="description.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/description.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="79" selection-start="79" selection-end="79" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -179,8 +196,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/javaeeapp/CalculatorWs.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/javaeeapp/Calculator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javaeeapp/webservice/Calculator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javaeeapp/webservice/HelloService.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/web.xml" />
@@ -194,6 +209,9 @@
         <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/src/test/java/com/javaeeapp/ws/HelloTests.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javaeeapp/ws/HelloImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javaeeapp/ws/HelloServiceImpl.java" />
+        <option value="$PROJECT_DIR$/.idea/description.html" />
       </list>
     </option>
   </component>
@@ -240,9 +258,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
     <option name="y" value="22" />
-    <option name="width" value="1420" />
+    <option name="width" value="1440" />
     <option name="height" value="790" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -271,8 +288,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -383,8 +398,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaEEAppWS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaEEAppWS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -416,41 +447,7 @@
       <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat">
-    <configuration default="false" name="HelloTests.testSayHello" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.javaeeapp.ws.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="JavaEEAppWS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="PACKAGE_NAME" value="com.javaeeapp.ws" />
-      <option name="MAIN_CLASS_NAME" value="com.javaeeapp.ws.HelloTests" />
-      <option name="METHOD_NAME" value="testSayHello" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.HelloTests">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -652,88 +649,11 @@
         </option>
       </method>
     </configuration>
-    <configuration default="false" name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0">
-      <option name="UPDATING_POLICY" value="restart-server" />
-      <deployment>
-        <artifact name="JavaEEAppWS:war">
-          <settings>
-            <option name="CONTEXT_PATH" value="/JavaEEAppWS" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_JavaEEWebService_2" />
-      </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <RunnerSettings RunnerId="Cover" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="56669" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method>
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="JavaEEAppWS:war" />
-        </option>
-      </method>
-    </configuration>
     <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Glassfish Server.Glassfish" />
-      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.Tomcat" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.HelloTests.testSayHello" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.HelloTests" />
+      <item index="2" class="java.lang.String" itemvalue="Tomcat Server.Tomcat" />
     </list>
-    <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.HelloTests.testSayHello" />
-      </list>
-    </recent_temporary>
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -765,30 +685,30 @@
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="22" width="1420" height="790" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1440" height="790" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32756132" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32756132" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3266187" sideWeight="0.4970888" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.52958155" sideWeight="0.4970888" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.53968257" sideWeight="0.503639" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Kotlin" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32756132" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IvyIDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32756132" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32756132" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32969433" sideWeight="0.6724387" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.67338127" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32756132" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.6724387" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.53823954" sideWeight="0.49126637" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24892396" sideWeight="0.46176046" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.53823954" sideWeight="0.49126637" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3266187" sideWeight="0.4970888" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32756132" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Kotlin" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -832,7 +752,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rename" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove old web template" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -848,6 +768,7 @@
     <MESSAGE value="Java EE JAX WS template" />
     <MESSAGE value="Minor fix, tested on Glassfish and custom context name" />
     <MESSAGE value="Rename" />
+    <MESSAGE value="Remove old web template" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -857,11 +778,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.8.1/junit-4.8.1.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="40" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/javax/xml/namespace/QName.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="11" selection-start="615" selection-end="615" vertical-scroll-proportion="0.0" />
@@ -902,46 +818,18 @@
         <state line="1" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="0.022488756" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javaeeapp/ws/HelloImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/sun-jaxws.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="100" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
-        <state />
-      </provider>
       <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
         <state />
       </provider>
       <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
         <state />
       </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="31" selection-start="725" selection-end="725" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="10" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/javaeeapp/ws/HelloTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="5" selection-start="766" selection-end="766" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -953,9 +841,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javaeeapp/ws/Hello.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javaeeapp/ws/HelloService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="14" selection-start="136" selection-end="136" vertical-scroll-proportion="0.21686748">
+        <state line="7" column="14" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javaeeapp/ws/HelloTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="593" selection-end="600" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javaeeapp/ws/HelloServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="55" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/sun-jaxws.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="108" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="10" selection-start="204" selection-end="204" vertical-scroll-proportion="-5.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/description.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="79" selection-start="79" selection-end="79" vertical-scroll-proportion="-0.0">
           <folding />
         </state>
       </provider>

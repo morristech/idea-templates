@@ -15,7 +15,7 @@ public class HelloTests {
 
     @Before
     public void setUp() {
-        endpoint = Endpoint.publish("http://127.0.0.1:4204/hello", new HelloImpl());
+        endpoint = Endpoint.publish("http://127.0.0.1:4204/hello", new HelloServiceImpl());
     }
 
     @After
@@ -28,8 +28,8 @@ public class HelloTests {
         Service service = Service.create(new URL("http://127.0.0.1:4204/hello?wsdl"),
                 new QName("http://ws.javaeeapp.com/", "HelloImplService"));
         Assert.assertNotNull(service);
-        Hello hello = service.getPort(Hello.class);
-        Assert.assertNotNull(hello);
-        Assert.assertEquals("Hello test", hello.sayHello("test"));
+        HelloService helloService = service.getPort(HelloService.class);
+        Assert.assertNotNull(helloService);
+        Assert.assertEquals("Hello test", helloService.sayHello("test"));
     }
 }
