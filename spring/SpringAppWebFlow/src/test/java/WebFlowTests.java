@@ -4,7 +4,7 @@ import org.springframework.webflow.test.MockExternalContext;
 import org.springframework.webflow.test.MockFlowBuilderContext;
 import org.springframework.webflow.test.execution.AbstractXmlFlowExecutionTests;
 
-public class SpringAppWebFlowTests extends AbstractXmlFlowExecutionTests {
+public class WebFlowTests extends AbstractXmlFlowExecutionTests {
     @Override
     protected void configureFlowBuilderContext(MockFlowBuilderContext builderContext) {
     }
