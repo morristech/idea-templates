@@ -1,24 +1,16 @@
 package com.javaeeapp.jpa;
 
-import org.junit.Assert;
-import org.junit.Test;
-
 import javax.ejb.embeddable.EJBContainer;
 import javax.naming.Context;
-import java.util.List;
+import javax.naming.NamingException;
 
-public class JavaEEAppJPATests {
-    @Test
-    public void testUserFindByName() throws Exception {
+public class HelloApp {
+    public static void main(String[] args) throws NamingException {
         Context context = EJBContainer.createEJBContainer().getContext();
         UserService userService = (UserService) context.lookup("java:global/JavaEEAppJPA/UserService");
-
-        Assert.assertNotNull(userService);
         User user = new User();
         user.setName("A test user");
         userService.save(user);
-        Assert.assertNotNull(user.getId());
-        List<User> users = userService.findByName("test");
-        Assert.assertTrue(users.size() > 0);
+        System.out.println(user.getName() + "'s id is " + user.getId());
     }
 }

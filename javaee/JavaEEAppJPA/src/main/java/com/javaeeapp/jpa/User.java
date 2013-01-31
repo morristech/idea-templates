@@ -2,7 +2,7 @@ package com.javaeeapp.jpa;
 
 import javax.persistence.*;
 
-@Entity(name = "account")
+@Entity(name = "user_table")
 public class User {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
