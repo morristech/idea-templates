@@ -11,7 +11,7 @@ import java.util.List;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration("classpath:spring-config.xml")
-public class SpringAppTests {
+public class AppTests {
     @Autowired
     private UserRepository userRepository;
 
@@ -21,7 +21,6 @@ public class SpringAppTests {
     @Test
     public void testUserFindByName() {
         Assert.notNull(userRepository);
-        System.out.println(userRepository);
         User user = new User();
         user.setName("A test user");
         userRepository.save(user);
