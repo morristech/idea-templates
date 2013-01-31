@@ -1,14 +1,11 @@
 package com.javaeeapp.jms;
 
-import org.junit.Assert;
-import org.junit.Test;
-
 import javax.annotation.Resource;
 import javax.ejb.embeddable.EJBContainer;
 import javax.jms.*;
 import javax.naming.NamingException;
 
-public class JavaEEAppJMSTests {
+public class HelloApp {
     @Resource
     private ConnectionFactory connectionFactory;
 
@@ -18,8 +15,7 @@ public class JavaEEAppJMSTests {
     @Resource(name = "AnswerQueue")
     private Queue answerQueue;
 
-    @Test
-    public void testHello() throws JMSException, NamingException {
+    public void sayHello() throws JMSException, NamingException {
         EJBContainer.createEJBContainer().getContext().bind("inject", this);
 
         final Connection connection = connectionFactory.createConnection();
@@ -30,8 +26,12 @@ public class JavaEEAppJMSTests {
         final MessageConsumer answers = session.createConsumer(answerQueue);
 
         questions.send(session.createTextMessage("Hello!"));
-        Assert.assertEquals("Hello back!", ((TextMessage) answers.receive(1000)).getText());
+        System.out.println(((TextMessage) answers.receive(1000)).getText());
 
         connection.close();
+    }
+
+    public static void main(String[] args) throws NamingException, JMSException {
+        new HelloApp().sayHello();
     }
 }
