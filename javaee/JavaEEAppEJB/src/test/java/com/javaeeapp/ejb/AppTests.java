@@ -7,7 +7,7 @@ import org.junit.Test;
 import javax.ejb.EJB;
 import javax.ejb.embeddable.EJBContainer;
 
-public class JavaEEAppEJBTests {
+public class AppTests {
     @EJB
     private HelloService helloService;
 
@@ -18,6 +18,6 @@ public class JavaEEAppEJBTests {
 
     @Test
     public void testSayHello() {
-        Assert.assertEquals("Hello, world!", helloService.getHelloMessage());
+        Assert.assertEquals("Hello, world!", helloService.sayHello());
     }
 }

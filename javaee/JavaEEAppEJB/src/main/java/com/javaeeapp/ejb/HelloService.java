@@ -4,7 +4,7 @@ import javax.ejb.Stateless;
 
 @Stateless
 public class HelloService {
-    public String getHelloMessage() {
+    public String sayHello() {
         return "Hello, world!";
     }
 }
