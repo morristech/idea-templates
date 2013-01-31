@@ -26,7 +26,7 @@ public class HelloTests {
     @Test
     public void testSayHello() throws Exception {
         Service service = Service.create(new URL("http://127.0.0.1:4204/hello?wsdl"),
-                new QName("http://ws.javaeeapp.com/", "HelloImplService"));
+                new QName("http://ws.javaeeapp.com/", "HelloServiceImplService"));
         Assert.assertNotNull(service);
         HelloService helloService = service.getPort(HelloService.class);
         Assert.assertNotNull(helloService);
