@@ -1,10 +1,10 @@
 package com.javaeeapp.jsf;
 
-import javax.ejb.Stateless;
+import javax.inject.Named;
 import java.text.MessageFormat;
 import java.util.ResourceBundle;
 
-@Stateless
+@Named
 public class Hello {
     public String sayHello(String name) {
         return MessageFormat.format(ResourceBundle.getBundle("messages").getString("helloMessage"),name);
