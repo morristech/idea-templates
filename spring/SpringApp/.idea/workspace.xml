@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a4afaff-6df1-4428-ac6a-5629ec7186b8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpringAppMVC/SpringAppMVC.iml" afterPath="$PROJECT_DIR$/../SpringAppMVC/SpringAppMVC.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpringAppMVC/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../SpringAppMVC/.idea/workspace.xml" />
     </list>
     <ignored path="SpringMVC.iws" />
@@ -17,7 +18,7 @@
     <file path="/hello.jsp" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358488074135" ignored="false" />
     <file path="/AppConfig.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358488807154" ignored="false" />
     <file path="/SpringApp.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358860986360" ignored="false" />
-    <file path="/Dummy.txt" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1361539327046" ignored="false" />
+    <file path="/Dummy.txt" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1362142616244" ignored="false" />
     <file path="/HelloWorldService.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358857998542" ignored="false" />
     <file path="/SpringAppConfig.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358861145394" ignored="false" />
     <file path="/SpringAppTests.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358949772146" ignored="false" />
@@ -145,7 +146,7 @@
               <nodes />
               <notes />
               <edges />
-              <settings layout="Hierarchic Group" zoom="1.0" x="979.0" y="257.5" />
+              <settings layout="Hierarchic Group" zoom="1.0" x="1138.0" y="294.0" />
               <SelectedNodes />
               <Categories>
                 <Category>Local context</Category>
@@ -227,10 +228,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="1272" />
     <option name="y" value="-8" />
     <option name="width" value="1296" />
-    <option name="height" value="1000" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -260,7 +261,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -272,6 +272,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -289,12 +290,12 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -317,18 +318,18 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.HelloApp">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
       <option name="filePath" />
       <option name="scope" value="ALL" />
       <option name="testName" />
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
-      <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
@@ -468,6 +469,7 @@
       <workItem from="1361190296556" duration="25000" />
       <workItem from="1361535582621" duration="61000" />
       <workItem from="1361539323252" duration="32000" />
+      <workItem from="1362142603413" duration="37000" />
     </task>
     <task id="LOCAL-00001" summary="renamed">
       <created>1360233677640</created>
@@ -481,13 +483,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6839000" />
+    <option name="totallyTimeSpent" value="6876000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <frame x="1272" y="-8" width="1296" height="1040" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29181495" sideWeight="0.48852223" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29105324" sideWeight="0.48852223" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -499,10 +501,10 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10048623" sideWeight="0.7081851" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.102106966" sideWeight="0.70894676" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25121555" sideWeight="0.7081851" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25121555" sideWeight="0.70894676" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34541336" sideWeight="0.48852223" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IvyIDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -542,7 +544,7 @@
     <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
     <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
-    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
     <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
     <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
     <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
@@ -699,7 +701,7 @@
           <nodes />
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="979.0" y="257.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="1138.0" y="294.0" />
           <SelectedNodes />
           <Categories>
             <Category>Local context</Category>

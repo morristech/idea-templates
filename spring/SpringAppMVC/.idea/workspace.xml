@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a4afaff-6df1-4428-ac6a-5629ec7186b8" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Dmitry.Avdeev\IdeaProjects\idea-templates\spring\SpringAppMVC\.idea\libraries\Maven__org_springframework_spring_test_mvc_1_0_0_M2.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/springapp/mvc/AppTests.java" afterPath="$PROJECT_DIR$/src/test/java/com/springapp/mvc/AppTests.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpringAppMVC.iml" afterPath="$PROJECT_DIR$/SpringAppMVC.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpringApp/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../SpringApp/.idea/workspace.xml" />
     </list>
     <ignored path="SpringMVC.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -19,7 +17,7 @@
     <file path="/mvc-dispatcher-servlet.xml" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358954834764" ignored="false" />
     <file path="/hello.jsp" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358488074135" ignored="false" />
     <file path="/AppConfig.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1358488807154" ignored="false" />
-    <file path="/Dummy.txt" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1361800907134" ignored="false" />
+    <file path="/Dummy.txt" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1362399006568" ignored="false" />
     <file path="/SpringAppMVCTests.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359007099385" ignored="false" />
     <file path="/web.xml" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359022302022" ignored="false" />
     <file path="/index.jsp" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359029676103" ignored="false" />
@@ -32,7 +30,7 @@
     <file path="/loggedout.jsp" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359029847681" ignored="false" />
     <file path="/AdminService.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1359031337835" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/out/classes/production/jsp-base-impl/standardSchemas/jspxml2.xsd" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1361535801583" ignored="false" />
-    <file path="/AppTests.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1361800956390" ignored="false" />
+    <file path="/AppTests.java" changelist="6a4afaff-6df1-4428-ac6a-5629ec7186b8" time="1362399153874" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +45,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -83,7 +82,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -94,10 +92,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HelloController.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="HelloController.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="22" selection-start="464" selection-end="464" vertical-scroll-proportion="0.3107861">
+            <state line="9" column="13" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -107,6 +105,26 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state line="7" column="54" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppTests.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/mvc/AppTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="33" selection-start="0" selection-end="1447" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="183" column="0" selection-start="10710" selection-end="10710" vertical-scroll-proportion="0.5980392">
               <folding />
             </state>
           </provider>
@@ -130,7 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/springapp/common/controller/HelloController.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/pages/hello.jsp" />
         <option value="$PROJECT_DIR$/src/com/springapp/mvc/controller/HelloController.java" />
         <option value="$PROJECT_DIR$/src/com/springapp/mvc/AppConfig.java" />
@@ -144,8 +161,9 @@
         <option value="$PROJECT_DIR$/src/main/resources/spring-config.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/com/springapp/mvc/AppTests.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/springapp/mvc/AppTests.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -258,7 +276,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -402,8 +419,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringAppMVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringAppMVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -415,7 +447,7 @@
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="reference.settings.project.maven.importing" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../WebTest" />
     <property name="project.structure.side.proportion" value="0.20000002" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -453,7 +485,7 @@
       <recent name="$PROJECT_DIR$/web" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AppTests">
+  <component name="RunManager" selected="JUnit.AppTests.simple">
     <configuration default="false" name="SpringAppMVCTests" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="SpringAppMVC" />
@@ -463,6 +495,34 @@
       <option name="MAIN_CLASS_NAME" value="com.springapp.mvc.SpringAppMVCTests" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AppTests.simple" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.springapp.mvc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="SpringAppMVC" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.springapp.mvc" />
+      <option name="MAIN_CLASS_NAME" value="com.springapp.mvc.AppTests" />
+      <option name="METHOD_NAME" value="simple" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -577,14 +637,16 @@
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="JUnit.AppTests" />
       <item index="1" class="java.lang.String" itemvalue="Tomcat Server.Tomcat" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.SpringAppMVCTests" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.AppTests.simple" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.SpringAppMVCTests" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.AppTests.simple" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.SpringAppMVCTests" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -626,6 +688,8 @@
       <workItem from="1361540971578" duration="74000" />
       <workItem from="1361800643808" duration="152000" />
       <workItem from="1361800906835" duration="290000" />
+      <workItem from="1362132990408" duration="41000" />
+      <workItem from="1362399005020" duration="621000" />
     </task>
     <task id="LOCAL-00001" summary="simplified">
       <created>1361538044568</created>
@@ -639,13 +703,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3811000" />
+    <option name="totallyTimeSpent" value="4473000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1272" y="-8" width="1296" height="1040" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34960273" sideWeight="0.4913917" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34846765" sideWeight="0.4913917" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -663,8 +727,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27116212" sideWeight="0.53246754" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24878444" sideWeight="0.6503973" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30874008" sideWeight="0.48852223" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24878444" sideWeight="0.65153235" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29398412" sideWeight="0.48852223" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="IvyIDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -700,7 +764,7 @@
     <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
     <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
-    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
     <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
     <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
     <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
@@ -743,11 +807,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SpringAppMVC.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="546" selection-end="546" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/3.2.0.RELEASE/spring-test-3.2.0.RELEASE.jar!/org/springframework/test/web/servlet/setup/MockMvcBuilders.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="152" selection-start="409" selection-end="409" vertical-scroll-proportion="0.42857143" />
@@ -786,6 +845,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+        <state />
+      </provider>
       <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
         <state />
       </provider>
@@ -797,16 +859,6 @@
       <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
         <state />
       </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="54" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/3.2.0.RELEASE/spring-test-3.2.0.RELEASE.jar!/org/springframework/test/context/ContextConfiguration.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -815,23 +867,12 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/3.2.0.RELEASE/spring-test-3.2.0.RELEASE-sources.jar!/org/springframework/test/context/ContextConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="18" selection-start="3093" selection-end="3093" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="79" column="18" selection-start="3093" selection-end="3093" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$MAVEN_REPOSITORY$/org/springframework/spring-test/3.2.0.RELEASE/spring-test-3.2.0.RELEASE.pom">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="70" selection-start="2660" selection-end="2660" vertical-scroll-proportion="0.39694658">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/mvc/AppTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="16" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="76" column="70" selection-start="2660" selection-end="2660" vertical-scroll-proportion="0.39694658" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -841,9 +882,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="54" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="22" selection-start="464" selection-end="464" vertical-scroll-proportion="0.3107861">
+        <state line="9" column="13" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/mvc/AppTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="33" selection-start="0" selection-end="1447" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="183" column="0" selection-start="10710" selection-end="10710" vertical-scroll-proportion="0.5980392">
           <folding />
         </state>
       </provider>
