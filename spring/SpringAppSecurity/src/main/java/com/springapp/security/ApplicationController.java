@@ -30,7 +30,7 @@ public class ApplicationController {
         return "index";
     }
 
-    @PreAuthorize("hasRole('admin')")
+    @PreAuthorize("hasAuthority('admin')")
     @RequestMapping(value = "/admin", method = RequestMethod.GET)
     public String admin(ModelMap map) {
         UserDetails userDetails =

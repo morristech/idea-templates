@@ -1,6 +1,12 @@
 <component name="ArtifactManager">
   <artifact type="war" build-on-make="true" name="SpringAppSecurity:war">
     <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>SpringAppSecurity</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
     <root id="archive" name="SpringAppSecurity.war">
       <element id="artifact" artifact-name="SpringAppSecurity:war exploded" />
     </root>
